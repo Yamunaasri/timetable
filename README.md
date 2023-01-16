@@ -123,3 +123,5 @@ My Timetable is displayed.
 # HTML validation report screenshot 
  ![Screenshot_20230105_061246](https://user-images.githubusercontent.com/118343379/210784161-bfe90267-0ff6-4299-85ca-c129fd569483.png)
 
+#RESULT 
+Thus, successfully created a web page to display timetable using HTML and CSS
