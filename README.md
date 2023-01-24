@@ -116,9 +116,9 @@ Execute the program
 ```
 # OUPUT
 My Timetable is displayed.
-/home/sec/Pictures/Screenshots/Screenshot from 2023-01-24 21-38-02.png
+
 <!--![Screenshot_20230105_061904](https://user-images.githubusercontent.com/118343379/210784004-0b78974e-228f-4ea2-9b0b-f2be53530adf.png)
-/home/sec/Pictures/Screenshots/Screenshot from 2023-01-24 21-38-11.png
+
 ![image](https://user-images.githubusercontent.com/118343379/210783892-c588631d-fe18-408c-9785-acb47e17b405.png)\-->
 
 # HTML validation report screenshot 
