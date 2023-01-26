@@ -116,13 +116,14 @@ Execute the program
 ```
 # OUPUT
 My Timetable is displayed.
-/home/sec/Pictures/Screenshots/Screenshot from 2023-01-24 21-38-02.png
-![Screenshot_20230105_061904](https://user-images.githubusercontent.com/118343379/210784004-0b78974e-228f-4ea2-9b0b-f2be53530adf.png)
+![Screenshot (22)](https://user-images.githubusercontent.com/115707860/214833439-3ecea2e0-9c50-407b-81e7-13fe5b62bf9d.png)
 
-![image](https://user-images.githubusercontent.com/118343379/210783892-c588631d-fe18-408c-9785-acb47e17b405.png)\
+
+![Screenshot (23)](https://user-images.githubusercontent.com/115707860/214833536-34778c4d-c154-4798-8825-823475e6ff63.png)
+
 
 # HTML validation report screenshot 
- ![Screenshot_20230105_061246](https://user-images.githubusercontent.com/118343379/210784161-bfe90267-0ff6-4299-85ca-c129fd569483.png)
+ ![Screenshot (24)](https://user-images.githubusercontent.com/115707860/214833994-4ec714d0-bb95-4660-b878-24b3fd13aeb7.png)
 
 # RESULT 
 Thus, successfully created a web page to display timetable using HTML and CSS
